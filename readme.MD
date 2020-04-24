@@ -8,7 +8,7 @@
 </div>
 
 <h3 style="font-family:calibri;">Note</h3>
-<p>add <a href="" target="_blank">Fontawesome<a/> library to your pubspec.yaml.</p>
+<p>add <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">Fontawesome<a/> library to your pubspec.yaml.</p>
 <br>
 
 </div>
